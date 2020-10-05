@@ -1,0 +1,61 @@
+/* universal styles */
+html {
+    background-color: black;
+    font-family: verdana, sans-serif;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+    font-family: verdana, sans-serif;
+}
+
+h2, p {
+    color: white;
+}
+
+header {
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+}
+
+#video {
+    text-align: center;
+}
+
+#camp {
+    text-align: center;
+}
+
+#camp h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+#camp p {
+    font-size: 21px;
+    color: gray;
+}
+
+#phone_icon {
+    text-align: center;
+}
+
+#phone_icon h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+#phone_icon img {
+    margin-top: 30px;
+}
+
+footer {
+    float: right;
+    margin: 30 auto;
+}
+
+footer p {
+    color: gray;
+}
